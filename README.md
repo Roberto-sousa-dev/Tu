@@ -1,6 +1,9 @@
 🍔 Hamburgueria do Beto
 
 Bem-vindo ao projeto Hamburgueria do Beto! Este é um projeto pessoal desenvolvido com HTML, CSS e JavaScript, com o objetivo de praticar manipulação de arrays e lógica de programação utilizando os métodos map, filter e reduce.
+<br>
+<br>
+<img src = "https://github.com/Roberto-sousa-dev/Tu/blob/main/img/Captura%20de%20tela%202025-09-03%20090536.png?raw=true" >
 
 💻 Tecnologias Utilizadas
 
